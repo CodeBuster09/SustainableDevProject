@@ -177,3 +177,38 @@ p {
     transform: rotate(0);
   }
 }
+ 
+/* CSS for footer */
+
+.container{
+   
+    padding: 80px;   
+}
+
+
+.footer-head{
+    color: white;
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.7);
+    
+}
+.icon-footer{
+    width: 2%;
+    padding-right:25px ;
+}
+#footer{
+    background-color: #08062b;
+}
+@media(max-width:900px)
+{
+    #footer{
+        text-align: center;
+    }
+    .col-lg-2{
+       padding: 5%;
+    }
+}
+
+
+

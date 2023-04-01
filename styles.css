@@ -125,6 +125,11 @@ p {
 }
 
 /* Testimonial Section */
+
+.carousel slide{
+  margin:10% 60% 10% 60%;
+}
+
 img {
   height: 500px;
 }

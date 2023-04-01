@@ -114,7 +114,9 @@ p {
 }
 
 /* Testimonial Section */
-
+img {
+  height: 500px;
+}
 #testimonials {
   background-color: #ef8172;
 }

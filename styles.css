@@ -98,8 +98,8 @@ p {
 
 #features {
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .feature-title {
@@ -113,8 +113,9 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color:#08062b ;
   margin-bottom: 1rem;
+  width:16px;
 }
 
 .icon:hover {

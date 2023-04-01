@@ -54,6 +54,10 @@ p {
   font-weight: bold;
 }
 
+.navbar-nav{
+    margin-left : auto;
+}
+
 .nav-item {
   padding: 0 18px;
 }

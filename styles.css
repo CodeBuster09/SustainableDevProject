@@ -94,6 +94,8 @@ p {
 
 #features {
   position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 .feature-title {

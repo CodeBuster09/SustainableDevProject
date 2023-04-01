@@ -50,7 +50,7 @@ p {
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
 }
 
@@ -102,6 +102,8 @@ p {
 
 .feature-box {
   padding: 4.5%;
+  text-align: center;
+  
 }
 
 .icon {
@@ -160,6 +162,12 @@ img {
 
 /* CTA Section */
 
+
+#cta{
+  
+  text-align: center;
+  
+}
 
 /* Footer Section */
 

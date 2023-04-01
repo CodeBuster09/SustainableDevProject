@@ -46,6 +46,8 @@ p {
 
 .navbar {
   padding-left: 0;
+  position: fixed;
+  z-index: 999;
 }
 
 .navbar-brand {

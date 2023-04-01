@@ -45,7 +45,7 @@ p {
 /* Navigation Bar */
 
 .navbar {
-  padding-left: auto;
+  padding-left: 0;
 }
 
 .navbar-brand {

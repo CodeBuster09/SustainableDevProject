@@ -126,6 +126,7 @@ p {
 
 
 
+
 /* Testimonial Section */
 img {
   display: block;
@@ -137,12 +138,7 @@ img {
   height: 500px;
   width:1000px;
 }
-/* .carousel slide carousel-fade{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-} */
+
 .center{
   display: block;
   margin-left: auto;
@@ -153,33 +149,7 @@ img {
   width: 80%;
   margin: 0 auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* text testimonial section */
-
-
-
-
 
 .text-carousel {
   max-width: 80%;
@@ -227,14 +197,7 @@ img {
 
 
 video {
-  /* position: absolute;
-  top: 0;
-  left: 0;
-  width: 80%;
-  margin: 0 auto;
-  height: 100%;
-  object-fit: cover;
-  z-index: -1; */
+
   position: absolute;
   top: 0;
   left: 50%;
@@ -244,7 +207,6 @@ video {
   z-index: -1;
   transform: translateX(-50%);
 }
-
 
 /* Pricing Section */
 

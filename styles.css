@@ -266,9 +266,10 @@ video {
     color: rgba(255, 255, 255, 0.7);
     
 }
-.icon{
+.icon-footer{
     width: 2%;
     padding-right:25px ;
+    text-decoration:none;
 }
 #footer{
     background-color: #08062b;

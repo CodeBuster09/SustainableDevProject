@@ -124,40 +124,127 @@ p {
   color: #ff4c68;
 }
 
+
+
 /* Testimonial Section */
-
-.carousel slide{
-  margin:10% 60% 10% 60%;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
-
 img {
   height: 500px;
+  width:1000px;
 }
-#testimonials {
-  background-color: #ef8172;
+/* .carousel slide carousel-fade{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
-
-.testimonial-text {
-  font-size: 3rem;
-  line-height: 1.5;
-}
-
-.testimonial-image {
-  width: 10%;
-  border-radius: 100%;
-  margin: 20px;
-}
-
-
-#press {
-  background-color: #ef8172;
-  padding-bottom: 3%;
+.carousel-custom {
+  width: 80%;
+  margin: 0 auto;
 }
 
-.press-logo {
-  width: 15%;
-  margin: 20px 20px 50px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* text testimonial section */
+
+
+
+
+
+.text-carousel {
+  max-width: 80%;
+  margin: 0 auto;
 }
+.text-carousel {
+  max-width: 80%;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+/*video section for donation*/
+.donation-section {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+.video-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  text-align: center;
+  color: #fff;
+}
+.video-overlay h2 {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+.video-overlay p {
+  font-size: 1.5rem;
+  margin-bottom: 3rem;
+}
+.video-overlay button {
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+  border: none;
+  background-color: #c1a35f;
+  color: #fff;
+  cursor: pointer;
+}
+.video-overlay button:hover {
+  background-color: #b39245;
+}
+
+
+video {
+  /* position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  margin: 0 auto;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1; */
+  position: absolute;
+  top: 0;
+  left: 50%;
+  width: 80%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+  transform: translateX(-50%);
+}
+
 
 /* Pricing Section */
 

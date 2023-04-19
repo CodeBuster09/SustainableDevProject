@@ -161,14 +161,12 @@ img {
   border: 0px;
 }
 
-.text-carousel {
-  max-width: 80%;
-  margin: 0 auto;
-}
+
 .text-carousel {
   max-width: 80%;
   margin: 0 auto;
   background-color: lightblue;
+  
 }
 /*video section for donation*/
 .donation-section {

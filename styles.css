@@ -150,6 +150,16 @@ img {
   margin: 0 auto;
 }
 /* text testimonial section */
+.carousel-control-prev{
+  width: 50px;
+  height: 24px;
+  border: 0px;
+}
+.carousel-control-next{
+  width: 50px;
+  height: 24px;
+  border: 0px;
+}
 
 .text-carousel {
   max-width: 80%;

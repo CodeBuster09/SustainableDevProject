@@ -154,11 +154,13 @@ img {
   width: 50px;
   height: 24px;
   border: 0px;
+  margin: auto;
 }
 .carousel-control-next{
   width: 50px;
   height: 24px;
   border: 0px;
+  margin: auto;
 }
 
 

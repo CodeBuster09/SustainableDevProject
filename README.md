@@ -1,3 +1,2 @@
-# SustainableDevProject
-
-Link to the website : https://codebuster09.github.io/SustainableDevProject/
+# Charity-Jet--Donation-Website
+Charity Jet is a Donation Website with integrated payment gateway using Razorpay. 
